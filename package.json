@@ -1,0 +1,26 @@
+{
+  "name": "customold_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shohambr/customold_Back.git"
+  },
+  "author": "shoham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shohambr/customold_Back/issues"
+  },
+  "homepage": "https://github.com/shohambr/customold_Back#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
